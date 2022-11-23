@@ -1,0 +1,35 @@
+.input {
+    width: 400px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: block;
+    border: 1px solid #0070f3;
+    border-radius: 4px;
+    box-sizing: border-box;
+    text-align: center;
+    /* border-style: 2px solid #0070f3; */
+    margin-left: 720px;
+    outline: none;
+    
+  }
+  .button{
+    width: 400px;
+    background-color: #0070f3;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 3px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    display: block;
+    margin-left: 720px;
+      
+  }
+
+  .p{
+    color: red;
+    /* margin-left: 720px; */
+    text-align: center;
+
+    
+  }
